@@ -185,5 +185,5 @@ This project is configured for Vercel deployment with the included `vercel.json`
 
 **Andile Ntshangase**
 - Email: vuyiswaandile176@gmail.com
-- 
+  
 **Built with ❤️ using Flask**
