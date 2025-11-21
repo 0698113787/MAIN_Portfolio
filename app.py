@@ -8,7 +8,7 @@ load_dotenv()
 
 # Initialize Flask app
 app = Flask(__name__)
-app.config['SECRET_KEY'] = os.getenv('SECRET_KEY', 'Ntshangase@2010')
+app.config['SECRET_KEY'] = os.getenv('SECRET_KEY', 'Ntshangase2010')
 
 
 # FLASK-MAIL CONFIGURATION FOR GMAIL
